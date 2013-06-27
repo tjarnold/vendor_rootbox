@@ -25,4 +25,4 @@ PRODUCT_BUILD_PROP_OVERRIDES := PRODUCT_NAME=htc_evita BUILD_FINGERPRINT=cingula
 
 # Copy Bootanimation
 PRODUCT_COPY_FILES += \
-    vendor/rootbox/prebuilt/xhdpi/bootanimation.zip:system/media/bootanimation.zip
+    vendor/rootbox/prebuilt/xhdpi/bootanimation/bootanimation_1280_720.zip:system/media/bootanimation.zip
