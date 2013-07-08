@@ -1,14 +1,14 @@
-# Inherit AOSP device configuration for evita
-$(call inherit-product, device/htc/evita/full_evita.mk)
-
 # Inherit GSM common stuff
 $(call inherit-product, vendor/rootbox/configs/gsm.mk)
 
 # Inherit RootBox common bits
 $(call inherit-product, vendor/rootbox/configs/common.mk)
 
+# Inherit AOSP device configuration for evita
+$(call inherit-product, device/htc/evita/device_evita.mk)
+
 # evita Overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/rootbox/overlay/common
+PRODUCT_PACKAGE_OVERLAYS += vendor/rootbox/overlay/evita
 
 # PA OVERLAY_TARGET
 OVERLAY_TARGET := pa_evita
