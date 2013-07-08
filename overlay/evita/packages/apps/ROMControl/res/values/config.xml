@@ -6,6 +6,12 @@
     <!-- Whether device has hardware buttons -->
     <bool name="has_hardware_buttons">true</bool>
 
+    <!-- Whether can use fast chage -->
+    <bool name="has_fast_charge">false</bool>
+
+    <!-- Whether can use color tuning -->
+    <bool name="has_color_tuning">false</bool>
+
     <!-- Whether to display the Stylus Gestures settings -->
     <bool name="config_stylusGestures">false</bool>
 </resources>
