@@ -3,6 +3,7 @@ add_lunch_combo rootbox_d2spr-userdebug
 add_lunch_combo rootbox_d2tmo-userdebug
 add_lunch_combo rootbox_d2vzw-userdebug
 add_lunch_combo rootbox_evita-userdebug
+add_lunch_combo rootbox_jewel-userdebug
 add_lunch_combo rootbox_d2usc-userdebug
 add_lunch_combo rootbox_find5-userdebug
 add_lunch_combo rootbox_grouper-userdebug
