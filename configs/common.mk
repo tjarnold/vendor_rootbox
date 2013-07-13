@@ -38,7 +38,7 @@ PRODUCT_PACKAGES += \
 # Custom Packages
 PRODUCT_PACKAGES += \
     esexplorer \
-    nova \
+#    nova \
     sprintvvm \
     titanium
 
