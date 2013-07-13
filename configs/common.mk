@@ -34,6 +34,13 @@ PRODUCT_PACKAGES += \
     DSPManager \
     libcyanogen-dsp \
     LockClock
+    
+# Custom Packages
+PRODUCT_PACKAGES += \
+    esexplorer \
+    nova \
+    sprintvvm \
+    titanium
 
 # PA Packages 
 PRODUCT_PACKAGES += \
