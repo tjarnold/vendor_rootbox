@@ -42,8 +42,8 @@ PRODUCT_PACKAGES += \
     titanium 
     
 # Nova Launcher
-#PRODUCT_COPY_FILES += \
-#    vendor/rootbox/prebuilt/common/app/NovaLauncher.apk:system/app/NovaLauncher.apk 
+PRODUCT_COPY_FILES += \
+    vendor/rootbox/prebuilt/common/app/NovaLauncher.apk:system/app/NovaLauncher.apk 
 
 # PA Packages 
 PRODUCT_PACKAGES += \
