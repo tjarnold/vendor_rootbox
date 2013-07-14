@@ -40,7 +40,7 @@ PRODUCT_PACKAGES += \
     esexplorer \
     sprintvvm \
     titanium \
-    nova
+    NovaLauncher
 
 # PA Packages 
 PRODUCT_PACKAGES += \
