@@ -26,7 +26,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     RootBoxPapers \
     RootBox
-#    Trebuchet
+    Trebuchet
 
 # CM Packages
 PRODUCT_PACKAGES += \
@@ -37,9 +37,7 @@ PRODUCT_PACKAGES += \
     
 # Custom Packages
 PRODUCT_PACKAGES += \
-    esexplorer \
-    sprintvvm \
-    titanium 
+    sprintvvm 
     
 # Nova Launcher
 PRODUCT_COPY_FILES += \
