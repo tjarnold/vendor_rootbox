@@ -35,11 +35,7 @@ PRODUCT_PACKAGES += \
     libcyanogen-dsp \
     LockClock
     
-# Custom Packages
-PRODUCT_PACKAGES += \
-    sprintvvm 
-    
-# Nova Launcher
+# Add Nova Launcher
 PRODUCT_COPY_FILES += \
     vendor/rootbox/prebuilt/common/app/NovaLauncher.apk:system/app/NovaLauncher.apk 
 
