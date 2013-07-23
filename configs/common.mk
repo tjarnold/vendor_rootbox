@@ -38,6 +38,11 @@ PRODUCT_PACKAGES += \
 # Add Nova Launcher
 PRODUCT_COPY_FILES += \
     vendor/rootbox/prebuilt/common/app/NovaLauncher.apk:system/app/NovaLauncher.apk 
+    
+# Terminal Emulator
+PRODUCT_COPY_FILES +=  \
+    vendor/rootbox/prebuilt/common/app/Term.apk:system/app/Term.apk \
+    vendor/rootbox/prebuilt/common/lib/armeabi/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so
 
 # PA Packages 
 PRODUCT_PACKAGES += \
