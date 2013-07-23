@@ -41,8 +41,8 @@ PRODUCT_COPY_FILES += \
     
 # Terminal Emulator
 PRODUCT_COPY_FILES +=  \
-    vendor/rootbox/prebuilt/common/app/Term.apk:system/app/Term.apk \
-    vendor/rootbox/prebuilt/common/lib/armeabi/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so
+    vendor/cm/app/Term.apk:system/app/Term.apk \
+    vendor/cm/lib/armeabi/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so
 
 # PA Packages 
 PRODUCT_PACKAGES += \
