@@ -33,7 +33,8 @@ PRODUCT_PACKAGES += \
     audio_effects.conf \
     DSPManager \
     libcyanogen-dsp \
-    LockClock
+    LockClock \
+    Apollo
     
 # Add Nova Launcher
 PRODUCT_COPY_FILES += \
