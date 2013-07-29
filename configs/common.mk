@@ -25,7 +25,8 @@ PRODUCT_PACKAGES += \
 # RootBox Packages
 PRODUCT_PACKAGES += \
     RootBoxPapers \
-    RootBox
+    RootBox \
+    Trebuchet
 
 # CM Packages
 PRODUCT_PACKAGES += \
