@@ -24,14 +24,9 @@ PRODUCT_PACKAGES += \
 # RootBox Packages
 PRODUCT_PACKAGES += \
     RootBoxPapers \
-<<<<<<< HEAD
     RootBox \
-    Trebuchet
-=======
     Trebuchet \
-    RootBox \
     RootBoxOTA
->>>>>>> upstream/jb-mr1
 
 # CM Packages
 PRODUCT_PACKAGES += \
