@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     RootBoxPapers \
     RootBox \
-    Trebuchet \
     RootBoxOTA
 
 # CM Packages
