@@ -12,6 +12,7 @@ SUPERUSER_PACKAGE_PREFIX := com.android.settings.rb.superuser
 PRODUCT_PACKAGES += \
     AOKPtips \
     AppWidgetPicker \
+    GooManager \
     LatinImeDictionaryPack \
     mGerrit \
     Microbes \
